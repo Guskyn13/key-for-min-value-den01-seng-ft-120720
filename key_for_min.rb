@@ -10,4 +10,3 @@ hash.each do |name, num|
 end
 end
 key_for_min_value(name_hash)
-
