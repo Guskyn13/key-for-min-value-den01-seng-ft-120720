@@ -8,3 +8,5 @@ hash.each do |name, num|
   if num is < num += 1
     puts "#{num}"
 end
+key_for_min_value(name_hash)
+end
